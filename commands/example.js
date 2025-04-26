@@ -5,7 +5,9 @@ module.exports = {
     .setName('') // komut ismi
     .setDescription('') // komut açıklaması
    
-    ),
+// kodlar buraya gelicek
+
+   
   async execute(interaction) {
     const text = interaction.options.getString('text');
     await interaction.reply(text);
