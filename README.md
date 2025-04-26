@@ -18,7 +18,7 @@
 ### ⚙️ Kurulum
 ```bash
 # 1. Depoyu klonlayın
-git clone https://github.com/sizin-kullanici-adiniz/discord-bot-altyapi.git
+git clone https://github.com/lizzard-development/Djs-v14-Slashli-Bos-Altyapi
 
 # 2. Gerekli paketleri yükleyin
 npm install
