@@ -25,5 +25,8 @@ npm install
 
 # 3. config.json dosyasını düzenleyin
 
-# 4. Botu başlatın
+# 4. Komutları yükleyin
+npm run deploy-commands
+
+# 5. Botu başlatın
 npm start
