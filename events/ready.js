@@ -9,7 +9,7 @@ module.exports = {
     
     client.user.setPresence({ activities: [{ name: 'ARES CODE'}], status: 'online' });
 
-    // Ready log
+   
     console.log(`✅ Bot hazır!`);
     console.log(`Bot: ${botName}`);
     console.log(`Sunucu Sayısı: ${serverCount}`);
