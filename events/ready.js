@@ -15,7 +15,7 @@ module.exports = {
     console.log(`Sunucu Sayısı: ${serverCount}`);
     console.log(`Kullanıcı Sayısı: ${userCount}`);
   }
-
+};
 
 
 
