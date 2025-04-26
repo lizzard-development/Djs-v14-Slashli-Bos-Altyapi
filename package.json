@@ -1,0 +1,15 @@
+{
+  "name": "ares-code-slashlı-bos-altyapı",
+  "version": "1.0.0",
+  "description": "Discord.js v14 slashlı boş altyapı",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy-commands": "node deploy-commands.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
